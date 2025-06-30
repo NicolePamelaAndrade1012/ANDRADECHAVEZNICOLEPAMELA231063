@@ -1,12 +1,12 @@
 # ProyectoE-Commerce
 Proyecto de sistema de gestión de e-commerce de la materia programación orientada a objetos.
-Desarrolladores: Cristhian Sare, Freddy Campuzano, Irianny Colina
+Desarrollador Nicole Pamela Andrade Chávez
 
-Fecha; 22 de diciembre de 2024.
+Fecha; 29 de junio del 2025.
 Materia: Programación orientada a objetos
 
-Nuestro proyecto cuenta con una interfaz de html para que se pueda observ, una base de datos que almacena los producto
-,realizamos la base de datos en datagrip y sql, nuestro proyecto cuenta con la estructura idea -database -models-service- static-
+El proyecto tiene interfaz de html para que se pueda observ, una base de datos que almacena los producto
+Realice la base de datos en datagrip y sql, el proyecto cuenta con la estructura idea -database -models-service- static-
 templates-static-main
 
 
